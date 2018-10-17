@@ -16,5 +16,5 @@
 ![Screenshot](static-comp-challenge-2.jpg)
 
 #My comp image 
-![Screenshot] (Screen Shot 2018-10-17 at 10.18.43 AM.jpg)
+![Screenshot] (comp.jpg)
 
