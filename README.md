@@ -8,12 +8,13 @@
  
 ##Tools 
 * HTML 
-*CSS
-*A little bit of inspiration from bootstrap just to see what code can make that menu item work. 
-*CSS flex 
+* CSS
+* A little bit of inspiration from bootstrap just to see what code can make that menu item work. 
+* CSS flex 
 
 ##Original Comp 
 ![Screenshot](static-comp-challenge-2.jpg)
 
 #My comp image 
+![Screenshot] (Screen Shot 2018-10-17 at 10.18.43 AM.jpg)
 
