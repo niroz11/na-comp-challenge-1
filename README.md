@@ -16,5 +16,5 @@
 ![Screenshot](static-comp-challenge-2.jpg)
 
 #My comp image 
-![Screenshot] (comp.png)
+![Screenshot](comp.png)
 
