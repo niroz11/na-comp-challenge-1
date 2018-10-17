@@ -14,3 +14,6 @@
 
 ##Original Comp 
 ![Screenshot](static-comp-challenge-2.jpg)
+
+#My comp image 
+
