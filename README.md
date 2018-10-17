@@ -6,15 +6,15 @@
  menu items and images in-line. Even though it seemed too easy for it looks, it took me number of days of hard work to get it done. 
  
  
-##Tools 
+## Tools 
 * HTML 
 * CSS
 * A little bit of inspiration from bootstrap just to see what code can make that menu item work. 
 * CSS flex 
 
-##Original Comp 
+## Original Comp 
 ![Screenshot](static-comp-challenge-2.jpg)
 
-#My comp image 
+# My comp image 
 ![Screenshot](comp.png)
 
